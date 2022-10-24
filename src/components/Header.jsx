@@ -1,4 +1,5 @@
 import React from 'react';
+// alteração para rodar avaliador de novo.//
 
 class Header extends React.Component {
   render() {
